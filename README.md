@@ -21,11 +21,14 @@ It is currently under active development, and contribution guidelines will be pr
 - [Sonic Frontiers](https://store.steampowered.com/app/1237320)
 
 ## So how do I use this?
-### Linux/Steam Deck
-In case you want to use HedgeModManager on Linux/Steam Deck, the setup process is a bit more involved. Check out [this guide](https://github.com/thesupersonic16/HedgeModManager/wiki/Running-on-Linux-(Wine)) on the wiki.
+### Steam Deck (steamOS)
+Primary support for this project is designed to simplify the modding experience on Steam Deck, and will be provided as it develops.
+
+### Other Linux Distros
+In case you currently wish to use HedgeModManager on Linux/Steam Deck, check out [this guide](https://github.com/thesupersonic16/HedgeModManager/wiki/Running-on-Linux-(Wine)) on the original wiki.
 
 ### Windows
-Please refer to the [original repository](https://github.com/thesupersonic16/HedgeModManager).
+Please grab the latest release from the [original repository](https://github.com/thesupersonic16/HedgeModManager).
 
 ## How do I install mods?
 There are multiple ways of installing mods, one of the easy ways of installing mods is by dragging its zip/7z/rar/folder into the mod list along with also being able to drag and drop multiple files and/or folders.
