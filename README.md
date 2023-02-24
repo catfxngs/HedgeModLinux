@@ -8,7 +8,7 @@
 
 The goal of this project is to better support **HedgeModManager** on Linux, *without* using Wine.
 
-Primary focus is to simplify the process for modding on the **Steam Deck** (steamOS), but can be built for any distribution.
+Primary focus is to simplify the process on Steam Deck, but can be built for any distribution.
 
 ### Future Supported Games
 - [Sonic Generations](https://store.steampowered.com/app/71340)
