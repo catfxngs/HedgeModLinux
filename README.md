@@ -6,9 +6,9 @@
     <img src="https://github.com/thesupersonic16/HedgeModManager/actions/workflows/build.yml/badge.svg">
 </h1>
 
-The goal of this project is to better support HedgeModManager on Linux, without using Wine.
+The goal of this project is to better support **HedgeModManager** on Linux, *without* using Wine.
 
-It is currently under active development, and contribution guidelines will be provided at a later date!
+Primary focus is to simplify the process for modding on the **Steam Deck** (steamOS), but can be built for any distribution.
 
 ### Future Supported Games
 - [Sonic Generations](https://store.steampowered.com/app/71340)
@@ -19,6 +19,14 @@ It is currently under active development, and contribution guidelines will be pr
 - Sonic Colours: Ultimate ([Steam](https://store.steampowered.com/app/2055290), [Epic Games Store](https://www.epicgames.com/store/p/sonic-colors-ultimate))
 - Sonic Origins ([Steam](https://store.steampowered.com/app/1794960), [Epic Games Store](https://store.epicgames.com/en-US/p/sonic-origins))
 - [Sonic Frontiers](https://store.steampowered.com/app/1237320)
+
+## How is this accomplished?
+Currently, this project is in early development. A native Linux port is being tested using [Mono](https://www.mono-project.com/) and [Gtk#](https://github.com/GtkSharp/GtkSharp), and an additional compatibilty layer *may be required* for games to properly function. The final release is expected to contain UI limitations differentiating from the official HedgeModManager. However, mods and code injection will function as expected.
+
+Several methods are being experimented with to accomplish this port, among other developers. Please expect changes to be made.
+
+## How can I contribute?
+All contributions will be greatly appreciated! The project outline is not finalized, so please be patient as guidelines are developed.
 
 ## So how do I use this?
 ### Steam Deck (steamOS)
