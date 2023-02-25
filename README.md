@@ -21,7 +21,9 @@ Primary focus is to simplify the process on Steam Deck, but can be built for any
 - [Sonic Frontiers](https://store.steampowered.com/app/1237320)
 
 ## How is this accomplished?
-Currently, this project is in early development. A native Linux port is being tested using [Mono](https://www.mono-project.com/) and [Gtk#](https://github.com/GtkSharp/GtkSharp), and an additional compatibilty layer *may be required* for games to properly function. The final release is expected to contain UI limitations differentiating from the official HedgeModManager. However, mods and code injection will function as expected.
+Currently, this project is in early development. A native Linux port is being tested using [Mono](https://www.mono-project.com/) and [Gtk#](https://github.com/GtkSharp/GtkSharp). The final release is expected to contain UI limitations differentiating from the official HedgeModManager. However, mods and code injection will function as expected. 
+
+It is likely that [Protontricks](https://github.com/Matoking/protontricks) may still be required to install Windows dependencies in your *game's* Proton prefix.
 
 Several methods are being experimented with to accomplish this port, among other developers. Please expect changes to be made.
 
